@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Skill paths illustration">
+<rect width="1200" height="675" fill="#f4f6f3"/>
+<circle cx="600" cy="560" r="40" fill="#13233f"/>
+<path d="M600 520 L300 260 M600 520 L600 220 M600 520 L900 260" stroke="#13233f" stroke-width="6" fill="none"/>
+<circle cx="300" cy="240" r="72" fill="#e4572e"/><circle cx="600" cy="200" r="72" fill="#0e7c6b"/><circle cx="900" cy="240" r="72" fill="#c99a2b"/>
+<path d="M270 240 h60 M285 215 v50" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+<rect x="560" y="180" width="80" height="12" rx="6" fill="#fff"/><rect x="560" y="205" width="80" height="12" rx="6" fill="#fff"/><rect x="560" y="230" width="50" height="12" rx="6" fill="#fff"/>
+<circle cx="900" cy="240" r="26" fill="none" stroke="#fff" stroke-width="8"/><path d="M888 240 l10 12 l18 -24" stroke="#fff" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>

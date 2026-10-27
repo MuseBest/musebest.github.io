@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Warning sign illustration">
+<rect width="1200" height="675" fill="#f4f6f3"/>
+<path d="M600 110 L1020 560 L180 560 Z" fill="#c99a2b"/>
+<path d="M600 190 L940 520 L260 520 Z" fill="#13233f"/>
+<rect x="580" y="300" width="40" height="120" rx="20" fill="#f4f6f3"/>
+<circle cx="600" cy="470" r="22" fill="#e4572e"/>
+<rect x="120" y="600" width="200" height="14" rx="7" fill="#d8ded9"/><rect x="880" y="600" width="200" height="14" rx="7" fill="#d8ded9"/>
+</svg>

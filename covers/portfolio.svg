@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Portfolio grid illustration">
+<rect width="1200" height="675" fill="#13233f"/>
+<path d="M0 520 L1200 380" stroke="#0e7c6b" stroke-width="6" fill="none"/>
+<circle cx="180" cy="520" r="14" fill="#e4572e"/><circle cx="600" cy="460" r="14" fill="#c99a2b"/><circle cx="1020" cy="400" r="14" fill="#f4f6f3"/>
+<rect x="120" y="110" width="300" height="210" rx="10" fill="#f4f6f3"/>
+<rect x="150" y="140" width="240" height="14" rx="7" fill="#13233f"/><rect x="150" y="170" width="180" height="10" rx="5" fill="#5a6672"/><rect x="150" y="230" width="120" height="34" rx="17" fill="#e4572e"/>
+<rect x="480" y="110" width="300" height="210" rx="10" fill="#0e7c6b"/>
+<circle cx="630" cy="215" r="52" fill="#f4f6f3"/><path d="M600 250 L630 180 L660 250 Z" fill="#e4572e"/>
+<rect x="840" y="110" width="240" height="210" rx="10" fill="#f4f6f3"/>
+<rect x="870" y="140" width="180" height="120" rx="8" fill="#c99a2b"/><rect x="870" y="280" width="120" height="10" rx="5" fill="#5a6672"/>
+</svg>
