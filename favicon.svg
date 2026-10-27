@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><rect x="2" y="2" width="44" height="44" rx="8" fill="#13233f"/><circle cx="24" cy="24" r="13" fill="none" stroke="#f4f6f3" stroke-width="2"/><path d="M24 13 L28 24 L24 35 L20 24 Z" fill="#e4572e"/><path d="M13 24 L24 20 L35 24 L24 28 Z" fill="#c99a2b"/><circle cx="24" cy="24" r="2.5" fill="#f4f6f3"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- EarnQuill favicon: white Q ring with brass tail on a pine rounded square. -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#173F35"/>
+  <g transform="translate(6,6) scale(0.8125)">
+    <circle cx="29" cy="29" r="19" fill="none" stroke="#F2F4F0" stroke-width="8"/>
+    <path d="M41 41 L53 55" fill="none" stroke="#C08A2B" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>
