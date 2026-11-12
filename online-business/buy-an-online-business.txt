@@ -1,0 +1,501 @@
+1:"$Sreact.fragment"
+3:I[9766,[],""]
+4:I[8924,[],""]
+7:I[8931,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-29892a74c7db0985.js"],"GoogleAds"]
+8:I[8758,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-29892a74c7db0985.js"],"OpenWebsiteAds"]
+9:I[1402,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-29892a74c7db0985.js"],""]
+b:I[4431,[],"OutletBoundary"]
+d:I[5278,[],"AsyncMetadataOutlet"]
+f:I[4431,[],"ViewportBoundary"]
+11:I[4431,[],"MetadataBoundary"]
+12:"$Sreact.suspense"
+14:I[7150,[],""]
+:HL["/_next/static/media/1a4aa50920b5315c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/597b6a5d799c44de-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/42154196fcb13fec.css","style"]
+0:{"P":null,"b":"AN53HI16dMVp2vPEMwvgu","p":"","c":["","online-business","buy-an-online-business"],"i":false,"f":[[["",{"children":[["category","online-business","d"],{"children":[["slug","buy-an-online-business","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/42154196fcb13fec.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en-GB","suppressHydrationWarning":true,"className":"__variable_fab2aa __variable_704693","children":["$","body",null,{"className":"flex min-h-screen flex-col font-body antialiased","children":[["$","noscript",null,{"children":["$","iframe",null,{"src":"https://www.googletagmanager.com/ns.html?id=GTM-NS83BN6L","height":"0","width":"0","style":{"display":"none","visibility":"hidden"}}]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('earnquill-theme');if(t==='dark'||(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches)){document.documentElement.classList.add('dark')}}catch(e){}})();"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"EarnQuill\",\"url\":\"https://earnquill.com\",\"description\":\"EarnQuill teaches legitimate ways to earn money online — AI-assisted earning, freelancing, remote work, blogging, affiliate marketing, YouTube, digital products and online business. Practical guides, honest platform reviews, no hype.\"}"}}],["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:absolute focus:bg-card focus:p-3 focus:text-ink","children":"Skip to main content"}],"$L2",["$","main",null,{"id":"main","className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L5",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L6",["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{"id":"microsoft-clarity","strategy":"afterInteractive","children":"(function(c,l,a,r,i,t,y){\n        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};\n        t=l.createElement(r);t.async=1;t.src=\"https://www.clarity.ms/tag/\"+i;\n        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);\n    })(window, document, \"clarity\", \"script\", \"z9hfb5epmd\");"}],["$","$L9",null,{"id":"google-tag-manager","strategy":"afterInteractive","children":"(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-NS83BN6L');"}]]}]}]]}],{"children":[["category","online-business","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","buy-an-online-business","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$La",null,["$","$Lb",null,{"children":["$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L11",null,{"children":["$","div",null,{"hidden":true,"children":["$","$12",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+c:null
+15:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-dd477792e2aa9b3a.js","413","static/chunks/app/%5Bcategory%5D/%5Bslug%5D/page-7d623a17a1f7c465.js"],""]
+16:I[3098,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-dd477792e2aa9b3a.js","413","static/chunks/app/%5Bcategory%5D/%5Bslug%5D/page-7d623a17a1f7c465.js"],"NewsletterForm"]
+6:["$","footer",null,{"className":"mt-16 bg-night text-white","children":[["$","div",null,{"className":"mx-auto grid max-w-7xl gap-10 px-4 py-12 sm:px-6 md:grid-cols-4","children":[["$","div",null,{"children":[["$","$L15",null,{"href":"/","className":"flex items-center gap-2.5","aria-label":"EarnQuill — home","children":[["$","svg",null,{"viewBox":"0 0 64 64","className":"h-8 w-8 sm:h-9 sm:w-9","role":"img","aria-label":"EarnQuill logo","children":[["$","circle",null,{"cx":"29","cy":"29","r":"19","fill":"none","stroke":"#f2f4f0","strokeWidth":"8"}],["$","path",null,{"d":"M41 41 L53 55","fill":"none","stroke":"#c08a2b","strokeWidth":"8","strokeLinecap":"round"}]]}],["$","span",null,{"className":"leading-none","children":[["$","span",null,{"className":"block font-display text-[1.4rem] font-semibold tracking-tight sm:text-[1.55rem] text-white","children":["Earn",["$","span",null,{"className":"text-gold","children":"Quill"}]]}],["$","span",null,{"className":"hidden text-[0.68rem] sm:block text-white/70","children":"Find your route to earning online."}]]}]]}],["$","p",null,{"className":"mt-4 text-sm leading-relaxed text-white/75","children":"Practical, honest guides to earning money online. No hype, no fake earnings claims — just routes that real people can follow."}]]}],["$","nav",null,{"aria-label":"Categories","children":[["$","h2",null,{"className":"font-display text-lg font-semibold","children":"Explore"}],["$","ul",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","ai-earning",{"children":["$","$L15",null,{"href":"/ai-earning","className":"text-white/80 hover:text-white","children":"AI Earning"}]}],["$","li","freelancing",{"children":["$","$L15",null,{"href":"/freelancing","className":"text-white/80 hover:text-white","children":"Freelancing"}]}],["$","li","online-jobs",{"children":["$","$L15",null,{"href":"/online-jobs","className":"text-white/80 hover:text-white","children":"Online Jobs"}]}],["$","li","blogging",{"children":["$","$L15",null,{"href":"/blogging","className":"text-white/80 hover:text-white","children":"Blogging"}]}],["$","li","affiliate-marketing",{"children":["$","$L15",null,{"href":"/affiliate-marketing","className":"text-white/80 hover:text-white","children":"Affiliate Marketing"}]}],["$","li","youtube-earning",{"children":["$","$L15",null,{"href":"/youtube-earning","className":"text-white/80 hover:text-white","children":"YouTube Earning"}]}],["$","li","social-media-earning",{"children":["$","$L15",null,{"href":"/social-media-earning","className":"text-white/80 hover:text-white","children":"Social Media Earning"}]}],["$","li","digital-products",{"children":["$","$L15",null,{"href":"/digital-products","className":"text-white/80 hover:text-white","children":"Digital Products"}]}]]}]]}],["$","nav",null,{"aria-label":"About EarnQuill","children":[["$","h2",null,{"className":"font-display text-lg font-semibold","children":"About"}],["$","ul",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","/about",{"children":["$","$L15",null,{"href":"/about","className":"text-white/80 hover:text-white","children":"About us"}]}],["$","li","/contact",{"children":["$","$L15",null,{"href":"/contact","className":"text-white/80 hover:text-white","children":"Contact us"}]}],["$","li","/editorial-policy",{"children":["$","$L15",null,{"href":"/editorial-policy","className":"text-white/80 hover:text-white","children":"Editorial policy"}]}],["$","li","/corrections",{"children":["$","$L15",null,{"href":"/corrections","className":"text-white/80 hover:text-white","children":"Corrections policy"}]}],["$","li","/affiliate-disclosure",{"children":["$","$L15",null,{"href":"/affiliate-disclosure","className":"text-white/80 hover:text-white","children":"Affiliate disclosure"}]}],["$","li","/disclaimer",{"children":["$","$L15",null,{"href":"/disclaimer","className":"text-white/80 hover:text-white","children":"Disclaimer"}]}],["$","li","/privacy",{"children":["$","$L15",null,{"href":"/privacy","className":"text-white/80 hover:text-white","children":"Privacy policy"}]}],["$","li","/terms",{"children":["$","$L15",null,{"href":"/terms","className":"text-white/80 hover:text-white","children":"Terms and conditions"}]}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"font-display text-lg font-semibold","children":"The Sunday Route"}],["$","p",null,{"className":"mt-3 text-sm text-white/75","children":"One useful earning guide in your inbox each week. No spam."}],["$","$L16",null,{"dark":true}]]}]]}],"$L17"]}]
+17:["$","div",null,{"className":"border-t border-white/15","children":["$","p",null,{"className":"mx-auto max-w-7xl px-4 py-4 text-xs text-white/60 sm:px-6","children":["© ",2026," EarnQuill. All rights reserved. Earning results vary; nothing on this site is financial advice."]}]}]
+5:["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-16 sm:px-6 sm:py-20","children":[["$","div",null,{"className":"text-center","children":[["$","svg",null,{"viewBox":"0 0 64 64","className":"mx-auto h-16 w-16","role":"img","aria-label":"EarnQuill logo","children":[["$","circle",null,{"cx":"29","cy":"29","r":"19","fill":"none","stroke":"#173f35","strokeWidth":"8"}],["$","path",null,{"d":"M41 41 L53 55","fill":"none","stroke":"#c08a2b","strokeWidth":"8","strokeLinecap":"round"}]]}],["$","p",null,{"className":"mt-6 font-display text-7xl font-semibold tracking-tight text-ink sm:text-8xl","children":["404",["$","span",null,{"className":"text-gold","children":"."}]]}],["$","h1",null,{"className":"mt-4 font-display text-3xl font-semibold sm:text-4xl","children":"This route isn't on the map."}],["$","p",null,{"className":"mx-auto mt-3 max-w-xl text-muted","children":"The page you asked for doesn't exist or has moved. No harm done: every earning route on EarnQuill is still one click away."}],["$","div",null,{"className":"mt-7 flex flex-wrap justify-center gap-3","children":[["$","$L15",null,{"href":"/","className":"rounded-md bg-night px-5 py-2.5 font-medium text-white","children":"Back home"}],["$","$L15",null,{"href":"/search","className":"rounded-md border-2 border-ink px-5 py-2.5 font-medium","children":"Search articles"}]]}]]}],["$","div",null,{"className":"mt-14","children":[["$","h2",null,{"className":"text-center font-display text-xl font-semibold","children":"Or browse a category"}],["$","div",null,{"className":"mt-5 flex flex-wrap justify-center gap-2.5","children":[["$","$L15","ai-earning",{"href":"/ai-earning","className":"rounded-full border border-ink/20 bg-white/60 px-4 py-2 text-sm font-medium hover:border-gold hover:text-gold","children":"AI Earning"}],["$","$L15","freelancing",{"href":"/freelancing","className":"rounded-full border border-ink/20 bg-white/60 px-4 py-2 text-sm font-medium hover:border-gold hover:text-gold","children":"Freelancing"}],["$","$L15","online-jobs",{"href":"/online-jobs","className":"rounded-full border border-ink/20 bg-white/60 px-4 py-2 text-sm font-medium hover:border-gold hover:text-gold","children":"Online Jobs"}],["$","$L15","blogging",{"href":"/blogging","className":"rounded-full border border-ink/20 bg-white/60 px-4 py-2 text-sm font-medium hover:border-gold hover:text-gold","children":"Blogging"}],["$","$L15","affiliate-marketing",{"href":"/affiliate-marketing","className":"rounded-full border border-ink/20 bg-white/60 px-4 py-2 text-sm font-medium hover:border-gold hover:text-gold","children":"Affiliate Marketing"}],["$","$L15","youtube-earning",{"href":"/youtube-earning","className":"rounded-full border border-ink/20 bg-white/60 px-4 py-2 text-sm font-medium hover:border-gold hover:text-gold","children":"YouTube Earning"}],["$","$L15","social-media-earning",{"href":"/social-media-earning","className":"rounded-full border border-ink/20 bg-white/60 px-4 py-2 text-sm font-medium hover:border-gold hover:text-gold","children":"Social Media Earning"}],["$","$L15","digital-products",{"href":"/digital-products","className":"rounded-full border border-ink/20 bg-white/60 px-4 py-2 text-sm font-medium hover:border-gold hover:text-gold","children":"Digital Products"}],["$","$L15","online-business",{"href":"/online-business","className":"rounded-full border border-ink/20 bg-white/60 px-4 py-2 text-sm font-medium hover:border-gold hover:text-gold","children":"Online Business"}],["$","$L15","digital-skills",{"href":"/digital-skills","className":"rounded-full border border-ink/20 bg-white/60 px-4 py-2 text-sm font-medium hover:border-gold hover:text-gold","children":"Digital Skills"}],["$","$L15","side-hustles",{"href":"/side-hustles","className":"rounded-full border border-ink/20 bg-white/60 px-4 py-2 text-sm font-medium hover:border-gold hover:text-gold","children":"Side Hustles"}],["$","$L15","earning-platforms",{"href":"/earning-platforms","className":"rounded-full border border-ink/20 bg-white/60 px-4 py-2 text-sm font-medium hover:border-gold hover:text-gold","children":"Earning Platforms"}]]}]]}],"$L18","$L19"]}]
+1a:I[1356,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-dd477792e2aa9b3a.js","413","static/chunks/app/%5Bcategory%5D/%5Bslug%5D/page-7d623a17a1f7c465.js"],"Image"]
+18:["$","div",null,{"className":"mt-14","children":[["$","h2",null,{"className":"text-center font-display text-xl font-semibold","children":"Start with our latest guides"}],["$","div",null,{"className":"mt-6 grid gap-6 text-left sm:grid-cols-3","children":[["$","article","cmwd0d4j000suzs9bf1z63upj",{"className":"group flex flex-col overflow-hidden rounded-lg border border-line bg-card","children":[["$","$L15",null,{"href":"/online-business/start-a-web-design-business-online","tabIndex":-1,"aria-hidden":"true","children":["$","$L1a",null,{"src":"/covers/start-a-web-design-business-online-cover.jpg","alt":"A web designer working on a website layout on a laptop in a bright home studio, with colour swatches and sketches on the desk","width":800,"height":450,"sizes":"(max-width: 768px) 100vw, 33vw","className":"aspect-[16/9] w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]","loading":"lazy","priority":false}]}],["$","div",null,{"className":"flex flex-1 flex-col p-5","children":[["$","p",null,{"className":"text-sm font-medium text-teal","children":["$","$L15",null,{"href":"/online-business","children":"Online Business"}]}],["$","h3",null,{"className":"mt-1.5 font-display font-semibold leading-snug text-xl","children":["$","$L15",null,{"href":"/online-business/start-a-web-design-business-online","className":"hover:text-teal","children":"How to Start a Web Design Business Online in 2026"}]}],["$","p",null,{"className":"mt-2 text-[0.95rem] leading-relaxed text-muted","children":"Learn how to start a web design business online step by step: pick a niche, build a portfolio, price your work, and win your first clients online."}],["$","p",null,{"className":"mt-auto pt-4 text-xs text-muted","children":["Maya Chen"," · ","12 Nov 2026"," · ",21," min read"]}]]}]]}],["$","article","cmwd0d4in00spzs9bqk2n6h4y",{"className":"group flex flex-col overflow-hidden rounded-lg border border-line bg-card","children":[["$","$L15",null,{"href":"/online-business/start-a-digital-marketing-agency","tabIndex":-1,"aria-hidden":"true","children":["$","$L1a",null,{"src":"/covers/start-a-digital-marketing-agency-cover.jpg","alt":"A small marketing agency team planning a client campaign around a table with a laptop, notebooks and a whiteboard with blank sticky notes","width":800,"height":450,"sizes":"(max-width: 768px) 100vw, 33vw","className":"aspect-[16/9] w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]","loading":"lazy","priority":false}]}],["$","div",null,{"className":"flex flex-1 flex-col p-5","children":[["$","p",null,{"className":"text-sm font-medium text-teal","children":["$","$L15",null,{"href":"/online-business","children":"Online Business"}]}],["$","h3",null,{"className":"mt-1.5 font-display font-semibold leading-snug text-xl","children":["$","$L15",null,{"href":"/online-business/start-a-digital-marketing-agency","className":"hover:text-teal","children":"How to Start a Digital Marketing Agency in 2026"}]}],["$","p",null,{"className":"mt-2 text-[0.95rem] leading-relaxed text-muted","children":"Learn how to start a digital marketing agency step by step: pick a niche, choose one service, price it, find your first clients, and scale your agency."}],["$","p",null,{"className":"mt-auto pt-4 text-xs text-muted","children":["Jordan Okafor"," · ","12 Nov 2026"," · ",21," min read"]}]]}]]}],["$","article","cmwd0d4ic00skzs9bq6qbvn2f",{"className":"group flex flex-col overflow-hidden rounded-lg border border-line bg-card","children":[["$","$L15",null,{"href":"/online-business/buy-an-online-business","tabIndex":-1,"aria-hidden":"true","children":["$","$L1a",null,{"src":"/covers/buy-an-online-business-cover.jpg","alt":"A buyer reviewing business figures and charts on a laptop at a desk, with a notebook and calculator beside it","width":800,"height":450,"sizes":"(max-width: 768px) 100vw, 33vw","className":"aspect-[16/9] w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]","loading":"lazy","priority":false}]}],"$L1b"]}]]}]]}]
+19:["$","p",null,{"className":"mt-14 text-center text-sm text-muted","children":["Followed a broken link on EarnQuill itself? ",["$","$L15",null,{"href":"/contact","className":"font-medium text-gold underline","children":"Tell us"}]," and we will fix it."]}]
+21:I[622,[],"IconMark"]
+1b:["$","div",null,{"className":"flex flex-1 flex-col p-5","children":[["$","p",null,{"className":"text-sm font-medium text-teal","children":["$","$L15",null,{"href":"/online-business","children":"Online Business"}]}],["$","h3",null,{"className":"mt-1.5 font-display font-semibold leading-snug text-xl","children":["$","$L15",null,{"href":"/online-business/buy-an-online-business","className":"hover:text-teal","children":"How to Buy an Online Business in 2026"}]}],["$","p",null,{"className":"mt-2 text-[0.95rem] leading-relaxed text-muted","children":"Learn how to buy an online business safely: set your budget, value it with SDE, run due diligence, agree terms, and close through escrow before you pay."}],["$","p",null,{"className":"mt-auto pt-4 text-xs text-muted","children":["Maya Chen"," · ","12 Nov 2026"," · ",20," min read"]}]]}]
+2:["$","header",null,{"children":[["$","div",null,{"className":"bg-pine text-white","children":["$","div",null,{"className":"mx-auto flex max-w-7xl flex-wrap items-center gap-x-4 gap-y-3 px-4 py-4 sm:px-6","children":[["$","$L15",null,{"href":"/","className":"flex items-center gap-2.5","aria-label":"EarnQuill — home","children":[["$","svg",null,{"viewBox":"0 0 64 64","className":"h-8 w-8 sm:h-9 sm:w-9","role":"img","aria-label":"EarnQuill logo","children":[["$","circle",null,{"cx":"29","cy":"29","r":"19","fill":"none","stroke":"#f2f4f0","strokeWidth":"8"}],["$","path",null,{"d":"M41 41 L53 55","fill":"none","stroke":"#c08a2b","strokeWidth":"8","strokeLinecap":"round"}]]}],["$","span",null,{"className":"leading-none","children":[["$","span",null,{"className":"block font-display text-[1.4rem] font-semibold tracking-tight sm:text-[1.55rem] text-white","children":["Earn",["$","span",null,{"className":"text-gold","children":"Quill"}]]}],["$","span",null,{"className":"hidden text-[0.68rem] sm:block text-white/70","children":"Find your route to earning online."}]]}]]}],["$","div",null,{"className":"ml-auto flex items-center gap-2","children":[["$","div",null,{"className":"hidden sm:block","children":["$","ul",null,{"className":"flex items-center gap-2","aria-label":"EarnQuill on social media","children":[["$","li","Facebook",{"children":["$","$L15",null,{"href":"https://www.facebook.com/profile.php?id=61595807234223","target":"_blank","rel":"noreferrer noopener","aria-label":"EarnQuill on Facebook","title":"EarnQuill on Facebook","className":"flex h-9 w-9 items-center justify-center rounded-full border border-white/30 text-white transition-colors hover:bg-white/10","children":["$","svg",null,{"width":"17","height":"17","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"}]}]}]}],["$","li","X",{"children":["$","$L15",null,{"href":"https://x.com/EarnQuill","target":"_blank","rel":"noreferrer noopener","aria-label":"EarnQuill on X","title":"EarnQuill on X","className":"flex h-9 w-9 items-center justify-center rounded-full border border-white/30 text-white transition-colors hover:bg-white/10","children":["$","svg",null,{"width":"17","height":"17","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}]}],["$","li","Pinterest",{"children":["$","$L15",null,{"href":"https://www.pinterest.com/earnquill","target":"_blank","rel":"noreferrer noopener","aria-label":"EarnQuill on Pinterest","title":"EarnQuill on Pinterest","className":"flex h-9 w-9 items-center justify-center rounded-full border border-white/30 text-white transition-colors hover:bg-white/10","children":["$","svg",null,{"width":"17","height":"17","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":["$","path",null,{"d":"M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.162-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.688 0 1.029-.653 2.567-.992 3.992-.285 1.193.6 2.165 1.775 2.165 2.128 0 3.768-2.245 3.768-5.487 0-2.861-2.063-4.869-5.008-4.869-3.41 0-5.409 2.562-5.409 5.199 0 1.033.394 2.143.889 2.741.099.12.112.225.085.345-.09.375-.293 1.199-.334 1.363-.053.225-.172.271-.401.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.631-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12.017 24c6.624 0 11.99-5.367 11.99-12.013C24.007 5.367 18.641.001 12.017.001z"}]}]}]}]]}]}],"$L1c","$L1d"]}],"$L1e"]}]}],"$L1f","$L20"]}]
+e:{"metadata":[["$","title","0",{"children":"How to Buy an Online Business in 2026 | EarnQuill"}],["$","meta","1",{"name":"description","content":"Learn how to buy an online business safely: set your budget, value it with SDE, run due diligence, agree terms, and close through escrow before you pay."}],["$","link","2",{"rel":"canonical","href":"https://earnquill.com/online-business/buy-an-online-business"}],["$","meta","3",{"name":"google-site-verification","content":"OPf0IGcBJ8OfvFq1uDYCm03QsuwTSCuGAnX-4ph9Vl0"}],["$","meta","4",{"property":"og:title","content":"How to Buy an Online Business in 2026"}],["$","meta","5",{"property":"og:description","content":"Learn how to buy an online business safely: set your budget, value it with SDE, run due diligence, agree terms, and close through escrow before you pay."}],["$","meta","6",{"property":"og:url","content":"https://earnquill.com/online-business/buy-an-online-business"}],["$","meta","7",{"property":"og:image","content":"https://earnquill.com/covers/buy-an-online-business-cover.jpg"}],["$","meta","8",{"property":"og:image:alt","content":"A buyer reviewing business figures and charts on a laptop at a desk, with a notebook and calculator beside it"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"property":"article:published_time","content":"2026-11-12T01:00:00.000Z"}],["$","meta","11",{"property":"article:modified_time","content":"2026-11-12T03:48:37.524Z"}],["$","meta","12",{"property":"article:author","content":"Maya Chen"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"EarnQuill"}],["$","meta","15",{"name":"twitter:description","content":"EarnQuill teaches legitimate ways to earn money online — AI-assisted earning, freelancing, remote work, blogging, affiliate marketing, YouTube, digital products and online business. Practical guides, honest platform reviews, no hype."}],["$","meta","16",{"name":"twitter:image","content":"https://earnquill.com/covers/buy-an-online-business-cover.jpg"}],["$","meta","17",{"name":"twitter:image:alt","content":"A buyer reviewing business figures and charts on a laptop at a desk, with a notebook and calculator beside it"}],["$","link","18",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","19",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","$L21","20",{}]],"error":null,"digest":"$undefined"}
+13:"$e:metadata"
+22:I[9196,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-29892a74c7db0985.js"],"ThemeToggle"]
+23:I[4703,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-29892a74c7db0985.js"],"MoreMenu"]
+24:I[8118,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-29892a74c7db0985.js"],"MobileNav"]
+1c:["$","span",null,{"className":"mx-1 hidden h-6 w-px bg-white/25 sm:block","aria-hidden":"true"}]
+1d:["$","$L22",null,{}]
+1e:["$","form",null,{"action":"/search","method":"get","role":"search","className":"order-3 flex w-full sm:order-none sm:w-auto","children":[["$","label",null,{"htmlFor":"site-search","className":"sr-only","children":"Search articles"}],["$","input",null,{"id":"site-search","name":"q","type":"search","placeholder":"Search guides, reviews, tutorials…","className":"w-full rounded-l-md border border-white/30 bg-white/10 px-3 py-2 text-sm text-white placeholder:text-white/60 sm:w-64"}],["$","button",null,{"type":"submit","className":"rounded-r-md bg-gold px-4 py-2 text-sm font-medium text-night hover:bg-white","children":"Search"}]]}]
+1f:["$","nav",null,{"aria-label":"Primary","className":"hidden border-b-2 border-pine bg-paper sm:block","children":["$","ul",null,{"className":"no-scrollbar mx-auto flex max-w-7xl flex-nowrap justify-between gap-x-1 overflow-x-auto whitespace-nowrap px-4 sm:px-6","children":[["$","li",null,{"className":"shrink-0","children":["$","$L15",null,{"href":"/","className":"block px-3 py-2.5 text-sm font-medium hover:text-teal","children":"Home"}]}],[["$","li","ai-earning",{"className":"shrink-0","children":["$","$L15",null,{"href":"/ai-earning","className":"block px-3 py-2.5 text-sm font-medium hover:text-teal","children":"AI Earning"}]}],["$","li","freelancing",{"className":"shrink-0","children":["$","$L15",null,{"href":"/freelancing","className":"block px-3 py-2.5 text-sm font-medium hover:text-teal","children":"Freelancing"}]}],["$","li","online-jobs",{"className":"shrink-0","children":["$","$L15",null,{"href":"/online-jobs","className":"block px-3 py-2.5 text-sm font-medium hover:text-teal","children":"Online Jobs"}]}],["$","li","blogging",{"className":"shrink-0","children":["$","$L15",null,{"href":"/blogging","className":"block px-3 py-2.5 text-sm font-medium hover:text-teal","children":"Blogging"}]}],["$","li","youtube-earning",{"className":"shrink-0","children":["$","$L15",null,{"href":"/youtube-earning","className":"block px-3 py-2.5 text-sm font-medium hover:text-teal","children":"YouTube Earning"}]}],["$","li","digital-products",{"className":"shrink-0","children":["$","$L15",null,{"href":"/digital-products","className":"block px-3 py-2.5 text-sm font-medium hover:text-teal","children":"Digital Products"}]}]],["$","$L23",null,{"categories":[{"id":"cmwd0d1pn0004zs9bhetyyjkm","name":"Affiliate Marketing","slug":"affiliate-marketing","description":"Recommend products honestly and earn a commission when readers buy.","image":null,"seoTitle":null,"seoDescription":null,"sortOrder":4,"createdAt":"$D2026-11-12T03:48:33.899Z","updatedAt":"$D2026-11-12T03:48:33.899Z"},{"id":"cmwd0d1pq0006zs9bts8xuwlb","name":"Social Media Earning","slug":"social-media-earning","description":"Turn an audience on social platforms into income — sponsorships, products, and services.","image":null,"seoTitle":null,"seoDescription":null,"sortOrder":6,"createdAt":"$D2026-11-12T03:48:33.902Z","updatedAt":"$D2026-11-12T03:48:33.902Z"},{"id":"cmwd0d1ps0008zs9b9iqlc7br","name":"Online Business","slug":"online-business","description":"Start and run a small online business, from idea to first paying customer.","image":null,"seoTitle":null,"seoDescription":null,"sortOrder":8,"createdAt":"$D2026-11-12T03:48:33.905Z","updatedAt":"$D2026-11-12T03:48:33.905Z"},{"id":"cmwd0d1pu0009zs9bw3g0s2hg","name":"Digital Skills","slug":"digital-skills","description":"Choose and learn the skills that employers and clients actually pay for.","image":null,"seoTitle":null,"seoDescription":null,"sortOrder":9,"createdAt":"$D2026-11-12T03:48:33.906Z","updatedAt":"$D2026-11-12T03:48:33.906Z"},{"id":"cmwd0d1pv000azs9b705d9mo1","name":"Side Hustles","slug":"side-hustles","description":"Extra income alongside a job or studies — realistic options, realistic expectations.","image":null,"seoTitle":null,"seoDescription":null,"sortOrder":10,"createdAt":"$D2026-11-12T03:48:33.907Z","updatedAt":"$D2026-11-12T03:48:33.907Z"},{"id":"cmwd0d1pw000bzs9bj60qh4pr","name":"Earning Platforms","slug":"earning-platforms","description":"Honest reviews of the platforms where people earn online, including their fees and downsides.","image":null,"seoTitle":null,"seoDescription":null,"sortOrder":11,"createdAt":"$D2026-11-12T03:48:33.909Z","updatedAt":"$D2026-11-12T03:48:33.909Z"}]}],["$","li",null,{"className":"shrink-0","children":["$","$L15",null,{"href":"/about","className":"block px-3 py-2.5 text-sm font-medium hover:text-teal","children":"About"}]}]]}]}]
+20:["$","$L24",null,{"categories":[{"id":"cmwd0d1pd0000zs9bhdcxbtvs","name":"AI Earning","slug":"ai-earning","description":"Use AI tools to work faster, offer new services, and build products — without pretending the tools do the work for you.","image":null,"seoTitle":null,"seoDescription":null,"sortOrder":0,"createdAt":"$D2026-11-12T03:48:33.889Z","updatedAt":"$D2026-11-12T03:48:33.889Z"},{"id":"cmwd0d1pi0001zs9b20hu0a2k","name":"Freelancing","slug":"freelancing","description":"Find clients, price your work, and build a freelance career that lasts.","image":null,"seoTitle":null,"seoDescription":null,"sortOrder":1,"createdAt":"$D2026-11-12T03:48:33.894Z","updatedAt":"$D2026-11-12T03:48:33.894Z"},{"id":"cmwd0d1pk0002zs9byesx96gl","name":"Online Jobs","slug":"online-jobs","description":"Legitimate remote jobs, how to find them, and how to tell a real listing from a scam.","image":null,"seoTitle":null,"seoDescription":null,"sortOrder":2,"createdAt":"$D2026-11-12T03:48:33.896Z","updatedAt":"$D2026-11-12T03:48:33.896Z"},{"id":"cmwd0d1pm0003zs9b9oiuou2u","name":"Blogging","slug":"blogging","description":"Start a blog, write for search, and grow an audience over time.","image":null,"seoTitle":null,"seoDescription":null,"sortOrder":3,"createdAt":"$D2026-11-12T03:48:33.898Z","updatedAt":"$D2026-11-12T03:48:33.898Z"},"$1f:props:children:props:children:2:props:categories:0",{"id":"cmwd0d1po0005zs9bqeach3c2","name":"YouTube Earning","slug":"youtube-earning","description":"Build a channel, meet monetisation requirements, and earn beyond ads.","image":null,"seoTitle":null,"seoDescription":null,"sortOrder":5,"createdAt":"$D2026-11-12T03:48:33.901Z","updatedAt":"$D2026-11-12T03:48:33.901Z"},"$1f:props:children:props:children:2:props:categories:1",{"id":"cmwd0d1pr0007zs9bmogruqtn","name":"Digital Products","slug":"digital-products","description":"Create and sell templates, courses, presets, and other products you make once and sell many times.","image":null,"seoTitle":null,"seoDescription":null,"sortOrder":7,"createdAt":"$D2026-11-12T03:48:33.903Z","updatedAt":"$D2026-11-12T03:48:33.903Z"},"$1f:props:children:props:children:2:props:categories:2","$1f:props:children:props:children:2:props:categories:3","$1f:props:children:props:children:2:props:categories:4","$1f:props:children:props:children:2:props:categories:5"]}]
+25:I[6530,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-dd477792e2aa9b3a.js","413","static/chunks/app/%5Bcategory%5D/%5Bslug%5D/page-7d623a17a1f7c465.js"],"AdSlot"]
+a:["$","article",null,{"className":"mx-auto max-w-7xl px-4 py-10 sm:px-6","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"How to Buy an Online Business in 2026\",\"description\":\"Learn how to buy an online business safely: set your budget, value it with SDE, run due diligence, agree terms, and close through escrow before you pay.\",\"image\":\"https://earnquill.com/covers/buy-an-online-business-cover.jpg\",\"datePublished\":\"2026-11-12T01:00:00.000Z\",\"dateModified\":\"2026-11-12T03:48:37.524Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Maya Chen\",\"url\":\"https://earnquill.com/authors/maya-chen\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"EarnQuill\",\"url\":\"https://earnquill.com\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://earnquill.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Online Business\",\"item\":\"https://earnquill.com/online-business\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"How to Buy an Online Business in 2026\",\"item\":\"https://earnquill.com/online-business/buy-an-online-business\"}]}"}}],["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-muted","children":[["$","$L15",null,{"href":"/","className":"hover:text-teal","children":"Home"}]," ",["$","span",null,{"aria-hidden":"true","children":"/"}]," ",["$","$L15",null,{"href":"/online-business","className":"hover:text-teal","children":"Online Business"}]," ",["$","span",null,{"aria-hidden":"true","children":"/"}]," ","How to Buy an Online Business in 2026"]}],["$","header",null,{"className":"mx-auto mt-6 max-w-3xl","children":[["$","p",null,{"className":"text-sm font-medium text-teal","children":["$","$L15",null,{"href":"/online-business","children":"Online Business"}]}],["$","h1",null,{"className":"mt-2 font-display text-4xl font-semibold leading-tight tracking-tight sm:text-5xl","children":"How to Buy an Online Business in 2026"}],["$","p",null,{"className":"mt-4 text-xl leading-relaxed text-muted","children":"Learn how to buy an online business safely: set your budget, value it with SDE, run due diligence, agree terms, and close through escrow before you pay."}],["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-x-4 gap-y-2 border-y border-line py-4 text-sm","children":[["$","$L15",null,{"href":"/authors/maya-chen","className":"font-medium hover:text-teal","children":"Maya Chen"}],["$","span",null,{"className":"text-muted","children":["Published ","12 November 2026"]}],["$","span",null,{"className":"text-muted","children":["Updated ","12 November 2026"]}],["$","span",null,{"className":"text-muted","children":[20," min read"]}]]}]]}],["$","figure",null,{"className":"mx-auto mt-8 max-w-4xl","children":[["$","$L1a",null,{"src":"/covers/buy-an-online-business-cover.jpg","alt":"A buyer reviewing business figures and charts on a laptop at a desk, with a notebook and calculator beside it","width":1200,"height":675,"className":"aspect-[16/9] w-full rounded-lg object-cover","priority":true}],["$","figcaption",null,{"className":"mt-2 text-center text-sm text-muted","children":"A buyer reviewing business figures and charts on a laptop at a desk, with a notebook and calculator beside it"}]]}],["$","div",null,{"className":"mx-auto max-w-4xl","children":["$","$L25",null,{"id":"eq-display-article-top"}]}],["$","div",null,{"className":"mx-auto mt-10 grid max-w-5xl gap-10 lg:grid-cols-[220px_1fr]","children":[["$","aside",null,{"className":"no-print lg:sticky lg:top-6 lg:self-start","aria-label":"Table of contents","children":[["$","h2",null,{"className":"font-display text-lg font-semibold","children":"In this guide"}],["$","ul",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","in-this-guide",{"className":"","children":"$L26"}],"$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c"]}]]}],"$L3d"]}],"$L3e","$L3f","$L40"]}]
+26:["$","a",null,{"href":"#in-this-guide","className":"text-teal hover:text-teal","children":"In this guide"}]
+27:["$","li","buy-or-build-decide-first",{"className":"","children":["$","a",null,{"href":"#buy-or-build-decide-first","className":"text-teal hover:text-teal","children":"Buy or build: decide first"}]}]
+28:["$","li","step-1-write-your-buy-box",{"className":"","children":["$","a",null,{"href":"#step-1-write-your-buy-box","className":"text-teal hover:text-teal","children":"Step 1: Write your buy box"}]}]
+29:["$","li","step-2-where-to-find-businesses-for-sale",{"className":"","children":["$","a",null,{"href":"#step-2-where-to-find-businesses-for-sale","className":"text-teal hover:text-teal","children":"Step 2: Where to find businesses for sale"}]}]
+2a:["$","li","step-3-shortlist-fast-with-the-30-minute-screen",{"className":"","children":["$","a",null,{"href":"#step-3-shortlist-fast-with-the-30-minute-screen","className":"text-teal hover:text-teal","children":"Step 3: Shortlist fast with the 30 minute screen"}]}]
+2b:["$","li","step-4-value-the-business-with-sde",{"className":"","children":["$","a",null,{"href":"#step-4-value-the-business-with-sde","className":"text-teal hover:text-teal","children":"Step 4: Value the business with SDE"}]}]
+2c:["$","li","worked-example-valuing-a-business-with-sde",{"className":"pl-4","children":["$","a",null,{"href":"#worked-example-valuing-a-business-with-sde","className":"text-teal hover:text-teal","children":"Worked example: valuing a business with SDE"}]}]
+2d:["$","li","step-5-due-diligence-checklist-by-area",{"className":"","children":["$","a",null,{"href":"#step-5-due-diligence-checklist-by-area","className":"text-teal hover:text-teal","children":"Step 5: Due diligence checklist by area"}]}]
+2e:["$","li","step-6-agree-terms",{"className":"","children":["$","a",null,{"href":"#step-6-agree-terms","className":"text-teal hover:text-teal","children":"Step 6: Agree terms"}]}]
+2f:["$","li","step-7-finance-the-purchase",{"className":"","children":["$","a",null,{"href":"#step-7-finance-the-purchase","className":"text-teal hover:text-teal","children":"Step 7: Finance the purchase"}]}]
+30:["$","li","step-8-close-through-escrow-and-take-over-in-order",{"className":"","children":["$","a",null,{"href":"#step-8-close-through-escrow-and-take-over-in-order","className":"text-teal hover:text-teal","children":"Step 8: Close through escrow and take over in order"}]}]
+31:["$","li","handover-checklist-in-order",{"className":"pl-4","children":["$","a",null,{"href":"#handover-checklist-in-order","className":"text-teal hover:text-teal","children":"Handover checklist, in order"}]}]
+32:["$","li","your-first-90-days",{"className":"pl-4","children":["$","a",null,{"href":"#your-first-90-days","className":"text-teal hover:text-teal","children":"Your first 90 days"}]}]
+33:["$","li","red-flags-and-common-mistakes",{"className":"","children":["$","a",null,{"href":"#red-flags-and-common-mistakes","className":"text-teal hover:text-teal","children":"Red flags and common mistakes"}]}]
+34:["$","li","scam-warning",{"className":"pl-4","children":["$","a",null,{"href":"#scam-warning","className":"text-teal hover:text-teal","children":"Scam warning"}]}]
+35:["$","li","frequently-asked-questions",{"className":"","children":["$","a",null,{"href":"#frequently-asked-questions","className":"text-teal hover:text-teal","children":"Frequently asked questions"}]}]
+36:["$","li","how-much-money-do-i-need-to-buy-an-online-business",{"className":"pl-4","children":["$","a",null,{"href":"#how-much-money-do-i-need-to-buy-an-online-business","className":"text-teal hover:text-teal","children":"How much money do I need to buy an online business?"}]}]
+37:["$","li","is-it-safer-to-buy-than-to-build",{"className":"pl-4","children":["$","a",null,{"href":"#is-it-safer-to-buy-than-to-build","className":"text-teal hover:text-teal","children":"Is it safer to buy than to build?"}]}]
+38:["$","li","how-long-does-buying-an-online-business-take",{"className":"pl-4","children":["$","a",null,{"href":"#how-long-does-buying-an-online-business-take","className":"text-teal hover:text-teal","children":"How long does buying an online business take?"}]}]
+39:["$","li","do-i-need-a-lawyer-to-buy-an-online-business",{"className":"pl-4","children":["$","a",null,{"href":"#do-i-need-a-lawyer-to-buy-an-online-business","className":"text-teal hover:text-teal","children":"Do I need a lawyer to buy an online business?"}]}]
+3a:["$","li","can-i-buy-a-business-with-no-experience",{"className":"pl-4","children":["$","a",null,{"href":"#can-i-buy-a-business-with-no-experience","className":"text-teal hover:text-teal","children":"Can I buy a business with no experience?"}]}]
+3b:["$","li","what-should-i-do-if-the-seller-will-not-give-analytics-or-payment-access",{"className":"pl-4","children":["$","a",null,{"href":"#what-should-i-do-if-the-seller-will-not-give-analytics-or-payment-access","className":"text-teal hover:text-teal","children":"What should I do if the seller will not give analytics or payment access?"}]}]
+3c:["$","li","conclusion-how-to-buy-an-online-business-in-2026",{"className":"","children":["$","a",null,{"href":"#conclusion-how-to-buy-an-online-business-in-2026","className":"text-teal hover:text-teal","children":"Conclusion: how to buy an online business in 2026"}]}]
+41:T6632,<p>Learning how to buy an online business means learning how to pay for earnings that may fall after the sale. Buying trades build time for purchase price. You skip the slow start, and you take on the risk that the traffic, the customers, or the profit do not survive the change of owner. This guide shows you how to buy carefully, step by step, so you pay a fair price for a business you can actually run.</p>
+<h2 id="in-this-guide">In this guide</h2>
+<ul>
+<li>Buy or build: decide first</li>
+<li>Step 1: Write your buy box</li>
+<li>Step 2: Where to find businesses for sale</li>
+<li>Step 3: Shortlist fast with the 30 minute screen</li>
+<li>Step 4: Value the business with SDE</li>
+<li>Step 5: Due diligence checklist by area</li>
+<li>Step 6: Agree terms</li>
+<li>Step 7: Finance the purchase</li>
+<li>Step 8: Close through escrow and take over in order</li>
+<li>Red flags and common mistakes</li>
+<li>Frequently asked questions</li>
+</ul>
+<h2 id="buy-or-build-decide-first">Buy or build: decide first</h2>
+<p>Buying suits you if time is your scarcest resource and you have capital, patience, and the skills to run the business you buy. Building suits you if you have more time than money, or if you want full control over every decision from day one.</p>
+<table>
+<thead>
+<tr>
+<th>Choice</th>
+<th>You gain</th>
+<th>You risk</th>
+<th>Best when</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Buy</td>
+<td>Income from day one, existing customers, existing traffic</td>
+<td>Paying for earnings that fall, hidden problems, overpaying</td>
+<td>You have capital and can run the business type</td>
+</tr>
+<tr>
+<td>Build</td>
+<td>Full control, low startup cost, no inherited problems</td>
+<td>Months with no income, slow growth</td>
+<td>You have time and a clear idea to test</td>
+</tr>
+</tbody></table>
+<p>Do not buy a business you do not understand. If you have never run an ecommerce store, buying a large store is a costly way to learn. Buy a business type you already know, or buy small enough that mistakes are survivable. If you would rather build, read <a href="https://earnquill.com/online-business/how-to-start-online-business-beginner" rel="noopener" target="_blank">how to start an online business as a beginner</a> first, and compare the two paths honestly.</p>
+<h2 id="step-1-write-your-buy-box">Step 1: Write your buy box</h2>
+<p>A buy box is a short written brief that describes exactly what you will buy. Write it before you browse any listings, or every listing will look tempting. A written buy box is the first step in how to buy an online business without falling in love with the first listing you see. Your buy box keeps you disciplined.</p>
+<table>
+<thead>
+<tr>
+<th>Buy box item</th>
+<th>Write this down</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Business type</td>
+<td>For example: content site, ecommerce store, small SaaS tool, newsletter</td>
+</tr>
+<tr>
+<td>Budget</td>
+<td>Your maximum price, plus a reserve of at least 10 to 20 percent for running costs after the sale</td>
+</tr>
+<tr>
+<td>Profit range</td>
+<td>The monthly profit you need, after the owner's time is costed fairly</td>
+</tr>
+<tr>
+<td>Hours per week</td>
+<td>How many hours you can actually work on it</td>
+</tr>
+<tr>
+<td>Skills you bring</td>
+<td>What you can already do, such as SEO, ads, customer support, or coding</td>
+</tr>
+<tr>
+<td>Skills you lack</td>
+<td>What you would need to hire for, and what that costs</td>
+</tr>
+<tr>
+<td>Risk you accept</td>
+<td>For example: no single traffic source over half of visits, no single customer over 20 percent of revenue</td>
+</tr>
+<tr>
+<td>Growth plan</td>
+<td>One realistic way you would grow it in the first year</td>
+</tr>
+</tbody></table>
+<p>Set your budget with a reserve. A business that costs your entire savings leaves you nothing to run it. You will need money for the first months of costs, for fixes the seller never mentioned, and for the transition period. A good rule is to keep at least 10 to 20 percent of the price in reserve, on top of the price itself.</p>
+<p>Also write down what you will not buy. For example: no business that depends on one social media account, no business whose owner does most of the work for free, and no business in a niche you do not understand. A written no list is as useful as a buy list.</p>
+<h2 id="step-2-where-to-find-businesses-for-sale">Step 2: Where to find businesses for sale</h2>
+<p>Most deals change hands in four places. Each has different risks and different prices.</p>
+<table>
+<thead>
+<tr>
+<th>Where</th>
+<th>How it works</th>
+<th>Watch out for</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Marketplaces</td>
+<td>Listings with verified financials, such as Flippa, Empire Flippers, and Acquire.com</td>
+<td>Low quality listings mixed with good ones; check every claim yourself</td>
+</tr>
+<tr>
+<td>Brokers</td>
+<td>A broker finds and vets deals for you, usually charging 8 to 15 percent</td>
+<td>Worth it mainly for larger deals, often over 500,000 US dollars</td>
+</tr>
+<tr>
+<td>Direct outreach</td>
+<td>You contact owners of businesses you admire and ask if they would sell</td>
+<td>The best deals are often never listed, but this takes time and tact</td>
+</tr>
+<tr>
+<td>Communities</td>
+<td>Founder groups, forums, and newsletters where owners post sales quietly</td>
+<td>Less formal checks, so your own due diligence matters more</td>
+</tr>
+</tbody></table>
+<p>Marketplaces are the best starting point for a first buyer. <a href="https://flippa.com" rel="noopener" target="_blank">Flippa</a> lists businesses of many sizes and shows live deals with asking prices, monthly profit, and profit multiples, which helps you learn what things cost. Use marketplaces to study prices first, even before you are ready to buy. Watch 20 listings in your buy box range and note the asking price, the profit, and the multiple. You will soon see which listings are fairly priced and which are not.</p>
+<p>Brokers suit larger purchases, because they handle the process and vet the seller. For small deals, the broker fee can eat the value. Direct outreach can find the best prices, because an owner who was not planning to sell has no broker fee and no listing fee, but it needs patience and a respectful first message. Never open with a low offer. Open with a real question about the business.</p>
+<h2 id="step-3-shortlist-fast-with-the-30-minute-screen">Step 3: Shortlist fast with the 30 minute screen</h2>
+<p>Before you spend days on due diligence, screen each listing in about 30 minutes. Ask six questions, and walk away if any answer is weak.</p>
+<ol>
+<li>What makes the money? You should be able to explain the revenue in one sentence, such as "It sells a 49 US dollar a month tool to dental clinics." If you cannot, the model is too complex or too vague.</li>
+<li>How much does the owner work? A business that needs the owner 40 hours a week is a job, not a business, and its profit is lower than it looks once you cost that time fairly.</li>
+<li>Is revenue recurring or one off? Subscriptions and repeat orders are steadier than single sales.</li>
+<li>How old are the customers? A business with customers who have stayed for years is sturdier than one with a flood of new buyers and no repeat buyers.</li>
+<li>Where does traffic come from, by channel and by month? If more than half comes from one source, such as one search engine update or one social account, the business is fragile.</li>
+<li>Why is it for sale? Good reasons include retirement, a new venture, or a move. Vague reasons, such as "lost interest", deserve a closer look.</li>
+</ol>
+<p>Score each answer simply: strong, unclear, or weak. Two weak answers means you move on. There are always more listings, and discipline at this stage saves weeks later.</p>
+<h2 id="step-4-value-the-business-with-sde">Step 4: Value the business with SDE</h2>
+<p>When you learn how to buy an online business, valuation is the skill that saves you the most money. Most small online businesses are valued on profit, not revenue. The measure most sellers use is SDE, which stands for seller discretionary earnings. SDE is the profit left after adding back the owner's pay and personal costs, because a new owner will run the business differently.</p>
+<p>The formula is: SDE equals earnings before tax, plus owner pay, plus depreciation and amortisation, plus discretionary expenses, plus non recurring items. Depreciation is the accounting cost of assets wearing out. Amortisation is the same idea for non physical assets. Discretionary expenses are personal costs the owner ran through the business, such as a personal car. Non recurring items are one off costs that will not repeat, such as a single legal bill.</p>
+<h3 id="worked-example-valuing-a-business-with-sde">Worked example: valuing a business with SDE</h3>
+<p>Example only: these numbers are not typical results. They show how the maths works.</p>
+<p>Imagine a content site for sale. Its figures for the last year are:</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Amount</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Earnings before tax</td>
+<td>80,000 US dollars</td>
+</tr>
+<tr>
+<td>Owner salary</td>
+<td>40,000 US dollars</td>
+</tr>
+<tr>
+<td>Depreciation</td>
+<td>4,000 US dollars</td>
+</tr>
+<tr>
+<td>Discretionary expenses</td>
+<td>6,000 US dollars</td>
+</tr>
+<tr>
+<td>Non recurring legal cost</td>
+<td>2,000 US dollars</td>
+</tr>
+<tr>
+<td>SDE</td>
+<td>132,000 US dollars</td>
+</tr>
+</tbody></table>
+<p>Recheck the maths. 80,000 plus 40,000 equals 120,000. Add 4,000 to get 124,000. Add 6,000 to get 130,000. Add 2,000 to get 132,000 US dollars of SDE.</p>
+<p>The price is SDE times a multiple. The multiple depends on the business type, its growth, its risks, and how much of the profit depends on the owner. Typical ranges from the guides read for this article are shown below. These are typical ranges, not verified market data, and they change over time.</p>
+<table>
+<thead>
+<tr>
+<th>Business type</th>
+<th>Typical multiple of annual profit</th>
+<th>What moves it up or down</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Content site</td>
+<td>2.5x to 4x</td>
+<td>Up: diverse traffic, steady growth. Down: heavy reliance on one search engine</td>
+</tr>
+<tr>
+<td>Ecommerce store</td>
+<td>2x to 4x</td>
+<td>Up: repeat customers, own brand. Down: thin margins, supplier risk</td>
+</tr>
+<tr>
+<td>Micro SaaS</td>
+<td>3x to 5x</td>
+<td>Up: low churn, recurring revenue. Down: high churn, owner built code only the owner understands</td>
+</tr>
+<tr>
+<td>Newsletter</td>
+<td>3x to 6x</td>
+<td>Up: engaged list, own audience. Down: rented audience, falling open rates</td>
+</tr>
+<tr>
+<td>Productised service</td>
+<td>2x to 3.5x</td>
+<td>Up: systems and staff in place. Down: everything depends on the founder</td>
+</tr>
+</tbody></table>
+<p>At a 3x multiple, the example business would be priced at 396,000 US dollars, because 132,000 times 3 equals 396,000. At 2.5x it would be 330,000 US dollars. At 4x it would be 528,000 US dollars. The range is wide, which is why the multiple matters as much as the profit.</p>
+<p>Apply two warnings before you accept any multiple. First, normalise the profit. If the owner works 30 hours a week for free, subtract the market cost of hiring someone to do that work. A business that looks profitable because the owner works for nothing is not profitable. Second, discount for single channel risk. If more than half of traffic or revenue comes from one source, reduce the multiple by about 20 to 40 percent, because one change at that source can halve the business. A store with 500,000 US dollars of revenue and an 8 percent margin is a 40,000 US dollar profit business, not a half million dollar business. Value the profit, not the revenue.</p>
+<h2 id="step-5-due-diligence-checklist-by-area">Step 5: Due diligence checklist by area</h2>
+<p>Due diligence means checking every claim the seller makes, with real records, before you pay. Ask for read only access to analytics and payment accounts, not screenshots, because screenshots can be edited. A seller who refuses access to analytics or payment records is giving you your answer. Walk away.</p>
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>Check</th>
+<th>Evidence to ask for</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Financial</td>
+<td>24 months of profit and loss, bank statements, and payment processor statements</td>
+<td>Bank and processor records that match the profit and loss, including refunds and chargebacks</td>
+</tr>
+<tr>
+<td>Financial</td>
+<td>Customer concentration</td>
+<td>No single customer over 20 percent of revenue, and the top 10 customers listed</td>
+</tr>
+<tr>
+<td>Financial</td>
+<td>Debts and costs</td>
+<td>All loans, subscriptions, and contractor costs, with contracts</td>
+</tr>
+<tr>
+<td>Traffic</td>
+<td>12 months of analytics access</td>
+<td>Read only access to analytics, not screenshots, plus Search Console data for search traffic</td>
+</tr>
+<tr>
+<td>Traffic</td>
+<td>Traffic by channel and by month</td>
+<td>A breakdown that shows whether one channel dominates, and whether traffic is growing or falling</td>
+</tr>
+<tr>
+<td>Traffic</td>
+<td>Email list health</td>
+<td>List size, open rates, and how the list was built, plus proof of consent where the law requires it</td>
+</tr>
+<tr>
+<td>Technical</td>
+<td>Ownership of every asset</td>
+<td>Domain, hosting, code, design files, and social accounts all in the seller's name and transferable</td>
+</tr>
+<tr>
+<td>Technical</td>
+<td>Code and systems</td>
+<td>A developer check for SaaS or apps, a list of licences and API dependencies, and a backup that works</td>
+</tr>
+<tr>
+<td>Technical</td>
+<td>Workarounds</td>
+<td>Any undocumented fixes or manual steps the owner does by hand, written down</td>
+</tr>
+<tr>
+<td>Legal</td>
+<td>Contracts needing consent</td>
+<td>Supplier, customer, and contractor contracts, and whether each one transfers to a new owner</td>
+</tr>
+<tr>
+<td>Legal</td>
+<td>Trademarks and tax</td>
+<td>Trademark ownership, tax registrations, and any disputes or claims</td>
+</tr>
+<tr>
+<td>Legal</td>
+<td>Staff and contractors</td>
+<td>Who does the work, what they are paid, and whether they will stay after the sale</td>
+</tr>
+</tbody></table>
+<p>For deals above roughly 25,000 US dollars, hire an accountant to check the finances and a lawyer to check the contracts and the sale agreement. Their fees are a small share of the price, and they catch problems you will miss. The US Small Business Administration offers guidance on buying a business, and you can start on the <a href="https://www.sba.gov" rel="noopener" target="_blank">US Small Business Administration website</a>. Tax and sale rules differ by country, so get local professional advice.</p>
+<h2 id="step-6-agree-terms">Step 6: Agree terms</h2>
+<p>Terms matter as much as price. A fair price with bad terms is a bad deal. The main terms to agree are:</p>
+<ul>
+<li>Price and payment: full payment at close, or part now and part later.</li>
+<li>Asset sale or share sale: most small deals are asset sales, where you buy the assets and not the company itself. Share sales, where you buy the company, carry more history and more risk. Tax differs by country, so get advice.</li>
+<li>Letter of intent, known as an LOI: a short document that sets out the price, the assets included, the due diligence period, transition support, non compete terms, and exclusivity, usually 30 to 45 days. It is usually not binding on price, but it focuses both sides.</li>
+<li>Earn out: part of the price is paid later, only if the business hits agreed targets. This shares risk with the seller.</li>
+<li>Seller financing: the seller lends you part of the price, often 20 to 50 percent, repaid over 12 to 24 months. This can help if a bank will not lend.</li>
+<li>Holdback: 10 to 20 percent of the price is held back for 30 to 90 days after the sale, and released if nothing hidden appears.</li>
+<li>Non compete: the seller agrees not to start a rival business for a set period.</li>
+<li>Transition support: the seller helps for 30 to 60 days after the sale, answering questions and introducing you to suppliers and customers.</li>
+</ul>
+<p>Negotiate from the numbers, not from emotion. If due diligence finds a problem, use it to adjust the price or the terms, or to walk away. A seller who rushes you, or who refuses a holdback on a large deal, is telling you something.</p>
+<h2 id="step-7-finance-the-purchase">Step 7: Finance the purchase</h2>
+<p>There are four common ways to fund a purchase, and most buyers use more than one.</p>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>How it works</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cash</td>
+<td>Your own savings</td>
+<td>Simplest, no lender, no interest, but it ties up your money</td>
+</tr>
+<tr>
+<td>Seller financing</td>
+<td>The seller lends part of the price, repaid over 12 to 24 months</td>
+<td>Common for small deals, and it shows the seller believes in the business</td>
+</tr>
+<tr>
+<td>Bank loan</td>
+<td>A loan secured against the business or your assets</td>
+<td>Banks want a business plan, clean records, and often a deposit</td>
+</tr>
+<tr>
+<td>SBA loan, US only</td>
+<td>In the United States, an SBA 7(a) loan can cover up to 90 percent of deals up to 5 million US dollars, with terms up to 10 years and a down payment of about 10 percent</td>
+<td>US only. Other countries have their own small business loan schemes, with different rules</td>
+</tr>
+</tbody></table>
+<p>Talk to a lender early, before you sign a letter of intent, because loan approval takes time and lenders will want to see the business records. Do not promise a seller a close date your lender cannot meet. And never borrow so much that the loan payments eat the profit you are buying. Work out the monthly loan payment first, then check that the business profit covers it with room to spare.</p>
+<h2 id="step-8-close-through-escrow-and-take-over-in-order">Step 8: Close through escrow and take over in order</h2>
+<p>Never pay a seller directly. Use an escrow service, which holds your money and releases it only when the agreed assets have transferred. Marketplaces such as Flippa offer escrow as part of the sale, and independent escrow services exist for direct deals. If a seller asks you to pay outside escrow, stop. That is the most common scam pattern in this market.</p>
+<h3 id="handover-checklist-in-order">Handover checklist, in order</h3>
+<ol>
+<li>Sign the asset purchase agreement, with the help of your lawyer.</li>
+<li>Transfer the domain to your account, and check it resolves to your hosting.</li>
+<li>Transfer hosting, code, and databases, and take a fresh backup.</li>
+<li>Transfer payment accounts, such as Stripe or PayPal, and check payouts reach your bank.</li>
+<li>Transfer marketplace and app store accounts, if any.</li>
+<li>Transfer the email list and the email tool account.</li>
+<li>Transfer social media accounts and ad accounts.</li>
+<li>Transfer supplier and contractor agreements, and introduce yourself to each one.</li>
+<li>Change every password and every two factor authentication setting, and remove the seller's access.</li>
+<li>Confirm the seller's transition support start date and how to reach them.</li>
+</ol>
+<p><img src="/covers/buy-an-online-business-handover.jpg" alt="Two people shaking hands over a signed agreement on a desk in a small office, with a laptop and a folder on the desk" /></p>
+<h3 id="your-first-90-days">Your first 90 days</h3>
+<table>
+<thead>
+<tr>
+<th>Period</th>
+<th>Focus</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Days 1 to 30</td>
+<td>Change nothing</td>
+<td>Learn how the business runs, talk to customers and suppliers, fix only urgent breaks, and keep the product and prices as they are</td>
+</tr>
+<tr>
+<td>Days 31 to 60</td>
+<td>Test one improvement</td>
+<td>Pick one change, such as a clearer checkout or a better email, test it, and measure the result before you try another</td>
+</tr>
+<tr>
+<td>Days 61 to 90</td>
+<td>Plan the next step</td>
+<td>Decide on one growth action for the next quarter, based on what the first 60 days taught you</td>
+</tr>
+</tbody></table>
+<p>Changing everything in the first month is the fastest way to lose customers who liked the business as it was. Stability first, then careful improvement.</p>
+<h2 id="red-flags-and-common-mistakes">Red flags and common mistakes</h2>
+<table>
+<thead>
+<tr>
+<th>Red flag</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Seller will not give analytics or payment access</td>
+<td>Walk away. Screenshots can be edited, and real access is a reasonable request</td>
+</tr>
+<tr>
+<td>Profit depends on the owner working for free</td>
+<td>Normalise the profit by costing the owner's time, then reprice the deal</td>
+</tr>
+<tr>
+<td>Over half of traffic or revenue from one source</td>
+<td>Discount the multiple by 20 to 40 percent, or walk away</td>
+</tr>
+<tr>
+<td>Revenue fell sharply in the last 3 months</td>
+<td>Ask why, and check whether a search update, a lost customer, or a broken product caused it</td>
+</tr>
+<tr>
+<td>Seller pressures you to close fast</td>
+<td>Slow down. A good deal survives a careful check</td>
+</tr>
+<tr>
+<td>Payment outside escrow</td>
+<td>Refuse. Use escrow for every payment</td>
+</tr>
+<tr>
+<td>Business depends on the founder's personal following</td>
+<td>Value it lower, because a personal following usually does not transfer</td>
+</tr>
+<tr>
+<td>No contracts with key suppliers or customers</td>
+<td>Treat it as a risk and price it in, or walk away</td>
+</tr>
+</tbody></table>
+<p>Common mistakes include: buying the biggest business you can afford instead of the best one you can run, trusting screenshots instead of live records, skipping the lawyer on a large deal to save a small fee, and changing prices or products in the first week. Each of these has cost first time buyers far more than the money they saved.</p>
+<h3 id="scam-warning">Scam warning</h3>
+<p>Scams in this market follow a pattern. A listing shows strong profit with screenshots only, the seller refuses live access to records, and the deal must close quickly, outside escrow, often with a reason that sounds urgent. Real sellers accept escrow, give live access, and allow time for checks. If a deal feels rushed or secret, it is not a bargain. It is a warning.</p>
+<p><img src="/covers/buy-an-online-business-due-diligence.jpg" alt="A due diligence checklist on paper next to a laptop showing charts, with a pen and reading glasses on a wooden desk" /></p>
+<h2 id="frequently-asked-questions">Frequently asked questions</h2>
+<h3 id="how-much-money-do-i-need-to-buy-an-online-business">How much money do I need to buy an online business?</h3>
+<p>Small sites start from about 10,000 US dollars, and a business with meaningful cash flow usually costs 100,000 to 300,000 US dollars. Keep a reserve of 10 to 20 percent of the price for running costs after the sale. The exact figure depends on the business type, its profit, and its multiple.</p>
+<h3 id="is-it-safer-to-buy-than-to-build">Is it safer to buy than to build?</h3>
+<p>It can be, because you buy existing customers and income, but it is not safe by itself. A bought business can lose its traffic or its customers after the sale. Safety comes from careful due diligence, a fair price, escrow, and a business you understand, not from buying alone.</p>
+<h3 id="how-long-does-buying-an-online-business-take">How long does buying an online business take?</h3>
+<p>A small asset purchase usually takes 6 to 12 weeks from first contact to close. Larger deals take longer, because due diligence, legal checks, and loan approval all need time. Do not rush the timetable to meet a seller's deadline.</p>
+<h3 id="do-i-need-a-lawyer-to-buy-an-online-business">Do I need a lawyer to buy an online business?</h3>
+<p>Yes, for any deal above roughly 25,000 US dollars, and it is wise even for smaller deals. A lawyer checks the sale agreement, the contracts, and whether the assets truly transfer. An accountant should check the finances at the same time.</p>
+<h3 id="can-i-buy-a-business-with-no-experience">Can I buy a business with no experience?</h3>
+<p>You can, but buy a business type you understand, or buy small and learn with a survivable amount of money. A content site suits a writer. A store suits someone who understands stock and customers. Do not buy a complex SaaS business as your first purchase if you cannot read its code or run its systems.</p>
+<h3 id="what-should-i-do-if-the-seller-will-not-give-analytics-or-payment-access">What should I do if the seller will not give analytics or payment access?</h3>
+<p>Walk away. Read only access to analytics and payment records is a normal, reasonable request, and honest sellers expect it. Screenshots can be edited, so they are not proof. A refusal is itself the most useful fact the seller has given you.</p>
+<h2 id="conclusion-how-to-buy-an-online-business-in-2026">Conclusion: how to buy an online business in 2026</h2>
+<p>That is how to buy an online business safely: write your buy box first, study listings before you bid, screen fast, value the business on SDE with a realistic multiple, check every claim against live records, agree fair terms with a holdback and transition support, and close through escrow. Then change nothing for a month while you learn how the business really runs.</p>
+<p>Next, read <a href="https://earnquill.com/online-business/how-to-sell-a-website-or-online-business" rel="noopener" target="_blank">how to sell a website or online business</a>, which is the other side of this market, <a href="https://earnquill.com/online-business/start-a-saas-business" rel="noopener" target="_blank">how to start a SaaS business</a>, and <a href="https://earnquill.com/online-business/how-to-scale-small-online-business" rel="noopener" target="_blank">how to scale a small online business</a>. Browse all our guides in <a href="https://earnquill.com/online-business" rel="noopener" target="_blank">Online business</a>.</p>
+<p>Reader note: valuation multiples in this article are typical ranges from the guides read on 2026-11-12, not verified market data. SBA loan terms are for the United States only, and tax, sale, and contract rules differ by country. Get local professional advice before you sign anything. Earning results vary; nothing on this site is financial advice.</p>
+3d:["$","div",null,{"children":[["$","div",null,{"className":"article-body","dangerouslySetInnerHTML":{"__html":"$41"}}],"$L42",false,"$L43","$L44","$L45","$L46"]}]
+3e:["$","nav",null,{"className":"mx-auto mt-12 grid max-w-5xl gap-4 border-t border-line pt-8 sm:grid-cols-2","aria-label":"More in this category","children":[["$","$L15",null,{"href":"/online-business/how-to-start-an-online-membership-business","className":"group flex items-center gap-4 rounded-lg border border-line bg-card p-4 hover:border-ink","children":[["$","$L1a",null,{"src":"/covers/online-membership-business.jpg","alt":"","width":192,"height":192,"className":"h-20 w-20 shrink-0 rounded-md object-cover sm:h-24 sm:w-24"}],["$","span",null,{"className":"min-w-0","children":[["$","span",null,{"className":"text-xs font-medium uppercase tracking-wide text-muted","children":"← Previous"}],["$","span",null,{"className":"mt-1 block font-display text-lg font-semibold leading-snug group-hover:text-teal","children":"How to Start an Online Membership Business in 2026"}]]}]]}],null]}]
+3f:["$","section",null,{"className":"mx-auto mt-12 max-w-7xl","aria-labelledby":"related-title","children":[["$","h2",null,{"id":"related-title","className":"font-display text-2xl font-semibold sm:text-3xl","children":"Related guides"}],["$","div",null,{"className":"mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","article","cmwd0d4j000suzs9bf1z63upj",{"className":"group flex flex-col overflow-hidden rounded-lg border border-line bg-card","children":[["$","$L15",null,{"href":"/online-business/start-a-web-design-business-online","tabIndex":-1,"aria-hidden":"true","children":["$","$L1a",null,{"src":"/covers/start-a-web-design-business-online-cover.jpg","alt":"A web designer working on a website layout on a laptop in a bright home studio, with colour swatches and sketches on the desk","width":800,"height":450,"sizes":"(max-width: 768px) 100vw, 33vw","className":"aspect-[16/9] w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]","loading":"lazy","priority":false}]}],["$","div",null,{"className":"flex flex-1 flex-col p-5","children":[["$","p",null,{"className":"text-sm font-medium text-teal","children":["$","$L15",null,{"href":"/online-business","children":"Online Business"}]}],["$","h3",null,{"className":"mt-1.5 font-display font-semibold leading-snug text-xl","children":["$","$L15",null,{"href":"/online-business/start-a-web-design-business-online","className":"hover:text-teal","children":"How to Start a Web Design Business Online in 2026"}]}],["$","p",null,{"className":"mt-2 text-[0.95rem] leading-relaxed text-muted","children":"Learn how to start a web design business online step by step: pick a niche, build a portfolio, price your work, and win your first clients online."}],["$","p",null,{"className":"mt-auto pt-4 text-xs text-muted","children":["Maya Chen"," · ","12 Nov 2026"," · ",21," min read"]}]]}]]}],["$","article","cmwd0d4in00spzs9bqk2n6h4y",{"className":"group flex flex-col overflow-hidden rounded-lg border border-line bg-card","children":[["$","$L15",null,{"href":"/online-business/start-a-digital-marketing-agency","tabIndex":-1,"aria-hidden":"true","children":["$","$L1a",null,{"src":"/covers/start-a-digital-marketing-agency-cover.jpg","alt":"A small marketing agency team planning a client campaign around a table with a laptop, notebooks and a whiteboard with blank sticky notes","width":800,"height":450,"sizes":"(max-width: 768px) 100vw, 33vw","className":"aspect-[16/9] w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]","loading":"lazy","priority":false}]}],["$","div",null,{"className":"flex flex-1 flex-col p-5","children":[["$","p",null,{"className":"text-sm font-medium text-teal","children":["$","$L15",null,{"href":"/online-business","children":"Online Business"}]}],["$","h3",null,{"className":"mt-1.5 font-display font-semibold leading-snug text-xl","children":["$","$L15",null,{"href":"/online-business/start-a-digital-marketing-agency","className":"hover:text-teal","children":"How to Start a Digital Marketing Agency in 2026"}]}],["$","p",null,{"className":"mt-2 text-[0.95rem] leading-relaxed text-muted","children":"Learn how to start a digital marketing agency step by step: pick a niche, choose one service, price it, find your first clients, and scale your agency."}],["$","p",null,{"className":"mt-auto pt-4 text-xs text-muted","children":["Jordan Okafor"," · ","12 Nov 2026"," · ",21," min read"]}]]}]]}],["$","article","cmwd0d4i100sfzs9b58tm1pq7",{"className":"group flex flex-col overflow-hidden rounded-lg border border-line bg-card","children":[["$","$L15",null,{"href":"/online-business/start-ecommerce-store-with-shopify","tabIndex":-1,"aria-hidden":"true","children":["$","$L1a",null,{"src":"/covers/start-ecommerce-store-with-shopify-cover.jpg","alt":"A small online store homepage on a laptop screen on a wooden desk, with a packed cardboard parcel and a small potted plant beside it","width":800,"height":450,"sizes":"(max-width: 768px) 100vw, 33vw","className":"aspect-[16/9] w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]","loading":"lazy","priority":false}]}],"$L47"]}]]}]]}]
+40:["$","section",null,{"className":"mx-auto mt-12 max-w-3xl rounded-lg border border-line bg-card p-6","aria-labelledby":"feedback-title","children":[["$","h2",null,{"id":"feedback-title","className":"font-display text-xl font-semibold","children":"Spotted something wrong?"}],["$","p",null,{"className":"mt-2 text-sm leading-relaxed text-muted","children":["We correct errors promptly. Email ",["$","a",null,{"href":"mailto:corrections@earnquill.com","className":"underline","children":"corrections@earnquill.com"}]," with the article title and what needs fixing, or read our ",["$","$L15",null,{"href":"/corrections","className":"underline","children":"corrections policy"}],"."]}]]}]
+48:I[7025,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-dd477792e2aa9b3a.js","413","static/chunks/app/%5Bcategory%5D/%5Bslug%5D/page-7d623a17a1f7c465.js"],"ShareButtons"]
+49:I[6311,["619","static/chunks/619-ba102abea3e3d0e4.js","356","static/chunks/356-dd477792e2aa9b3a.js","413","static/chunks/app/%5Bcategory%5D/%5Bslug%5D/page-7d623a17a1f7c465.js"],"RewardAdButton"]
+42:["$","$L25",null,{"id":"eq-display-article-end"}]
+43:["$","div",null,{"className":"mt-8 border-t border-line pt-6","children":["$","$L48",null,{"title":"How to Buy an Online Business in 2026","url":"https://earnquill.com/online-business/buy-an-online-business"}]}]
+44:["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"text-sm text-muted","children":"Topics:"}],[["$","$L15","cmwd0d4i600sgzs9bfe91nicn",{"href":"/search?q=buying%20a%20business","className":"rounded-full border border-line bg-card px-3 py-1 text-xs font-medium hover:border-ink","children":"buying a business"}],["$","$L15","cmwd0d2qh002hzs9b6z583j5a",{"href":"/search?q=online-business","className":"rounded-full border border-line bg-card px-3 py-1 text-xs font-medium hover:border-ink","children":"online-business"}],["$","$L15","cmwd0d4i900sizs9b4l64n8cm",{"href":"/search?q=investing","className":"rounded-full border border-line bg-card px-3 py-1 text-xs font-medium hover:border-ink","children":"investing"}]]]}]
+45:["$","section",null,{"className":"mt-10 rounded-lg bg-night p-6 text-white sm:p-8","aria-labelledby":"article-nl-title","children":[["$","h2",null,{"id":"article-nl-title","className":"font-display text-xl font-semibold sm:text-2xl","children":"Get the next guide in your inbox"}],["$","p",null,{"className":"mt-2 text-sm leading-relaxed text-white/85","children":"One practical earning guide each week. No spam, no hype, unsubscribe anytime."}],["$","div",null,{"className":"mt-4 max-w-md","children":["$","$L16",null,{"dark":true}]}],["$","p",null,{"className":"mt-3 text-xs text-white/60","children":"We never share your email address."}]]}]
+46:["$","$L49",null,{}]
+47:["$","div",null,{"className":"flex flex-1 flex-col p-5","children":[["$","p",null,{"className":"text-sm font-medium text-teal","children":["$","$L15",null,{"href":"/online-business","children":"Online Business"}]}],["$","h3",null,{"className":"mt-1.5 font-display font-semibold leading-snug text-xl","children":["$","$L15",null,{"href":"/online-business/start-ecommerce-store-with-shopify","className":"hover:text-teal","children":"How to Start an Ecommerce Store with Shopify in 2026"}]}],["$","p",null,{"className":"mt-2 text-[0.95rem] leading-relaxed text-muted","children":"Learn how to start an ecommerce store with Shopify step by step: set up your store, add products, take payments, and launch, with 2026 costs explained."}],["$","p",null,{"className":"mt-auto pt-4 text-xs text-muted","children":["Jordan Okafor"," · ","12 Nov 2026"," · ",19," min read"]}]]}]
